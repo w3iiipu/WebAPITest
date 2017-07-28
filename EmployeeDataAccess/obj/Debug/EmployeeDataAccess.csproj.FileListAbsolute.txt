@@ -1,0 +1,10 @@
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\GitHub\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\GitHub\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\GitHub\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
